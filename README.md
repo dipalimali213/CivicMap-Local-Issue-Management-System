@@ -133,49 +133,49 @@ Citizen Tracks Resolution
 
 # 📸 Application Screenshots
 
-📁 Place images inside: `screenshots/`
+
 
 ### 🏠 Home Page
-![Home](screenshots/Home Page.png)
+![Home](screenshots/HomePage.png)
 
 ### 🔐 Admin Login
-![Admin Login](screenshots/Admin Login Page.png)
+![Admin Login](screenshots/AdminLoginPage.png)
 
 ### 🛠 Admin Dashboard
-![Admin Dashboard](screenshots/Admin Home Page.png)
+![Admin Dashboard](screenshots/AdminHomePage.png)
 
 ### ➕ Add Authority
-![Add Authority](screenshots/Add Authority.png)
+![Add Authority](screenshots/AddAuthority.png)
 
 ### 🗑 Delete Authority
-![Delete Authority](screenshots/Delete Authority.png)
+![Delete Authority](screenshots/DeleteAuthority.png)
 
 ### 👥 View Authorities
-![View Authority](screenshots/View Authority.png)
+![View Authority](screenshots/ViewAuthority.png)
 
 ### 👤 Citizen Registration
-![Citizen Register](screenshots/Citizen Register Page.png)
+![Citizen Register](screenshots/CitizenRegisterPage.png)
 
 ### 🔐 Citizen Login
-![Citizen Login](screenshots/Citizen Login Page.png)
+![Citizen Login](screenshots/CitizenLoginPage.png)
 
 ### 🏠 Citizen Dashboard
-![Citizen Home](screenshots/Citizen Home Page.png)
+![Citizen Home](screenshots/CitizenHomePage.png)
 
 ### 📍 Report Issue
-![Report Issue](screenshots/Report Issue Page.png)
+![Report Issue](screenshots/ReportIssuePage.png)
 
 ### 📊 View All Issues
-![View All Issues](screenshots/View All Issue.png)
+![View All Issues](screenshots/ViewAllIssue.png)
 
 ### 📌 Reported Issue Status
-![Reported Issue](screenshots/Reported Issue.png)
+![Reported Issue](screenshots/ReportedIssue.png)
 
 ### 🏢 Authority Login
-![Authority Login](screenshots/Authority Login Page.png)
+![Authority Login](screenshots/AuthorityLoginPage.png)
 
 ### 🏠 Authority Dashboard
-![Authority Home](screenshots/Authority Home Page.png)
+![Authority Home](screenshots/AuthorityHomePage.png)
 
 ---
 
